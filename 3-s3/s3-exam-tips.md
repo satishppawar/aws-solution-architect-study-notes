@@ -9,10 +9,10 @@
   - https://bucket-name.s3.region-name.amazonaws.com/key-name
   - https://daves-bucket.s3.us-east-1.amazonaws.com/mountain.jpg
 
-**Key:** The object name (mountain.jpg)
-**Value:** The data
-**Version ID:** Allows you to store multiple versions of the same object.
-**Metadata:** Data about the data you are storing (`last-modified`, `content-type`)
+**Key:** The object name (mountain.jpg) </br>
+**Value:** The data </br>
+**Version ID:** Allows you to store multiple versions of the same object. </br>
+**Metadata:** Data about the data you are storing (`last-modified`, `content-type`) </br>
 
 ## Securing your bucket
 
