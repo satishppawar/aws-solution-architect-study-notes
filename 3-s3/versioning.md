@@ -4,11 +4,11 @@
 - Allows you to have multiple versions of an object within S3
 
 ## Advantages of Versioning
-- All versions of an object ware stored in S3.  This includes all writes and even if the object is deleted.
-- Can be used to backup objects
-- Once enabled, versioning cannot be disabled... only suspended.
-- Versioning can be integrated into lifecycle rules
-- Versioning supports MFA
+- **All Versions** - All versions of an object are stored in S3.  This includes all writes and even if the object is deleted.
+- **Backup** - Can be used to backup objects
+- **Cannot be disabled** - Once enabled, versioning cannot be disabled... only suspended.
+- **Lifecycle Rules** - Versioning can be integrated into lifecycle rules
+- **MFA Support** - Versioning supports MFA
 
 ## To Enable Versioning
 - Browse to the bucket you want to enable versioning on
